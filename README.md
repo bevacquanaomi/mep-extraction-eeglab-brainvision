@@ -49,8 +49,8 @@ The output file (.xlsx format) contains a matrix with 7 columns:
 2. ADM peak-to-peak amplitude
 3. FDI pre-stimulus rectified mean EMG activity
 4. ADM pre-stimulus rectified mean EMG activity
-5. FDI peak latency proxy
-6. ADM peak latency proxy
+5. FDI peak interval proxy (interval between the maximum and minimum peaks)
+6. ADM peak interval proxy (interval between the maximum and minimum peaks)
 7. Trial quality label (1 = good, 0 = bad, unassigned = 0)
 
 ---
