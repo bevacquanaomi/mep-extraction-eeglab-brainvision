@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "MEP Extraction (EEGLAB Pipeline)"
+
+message: "If you use this software, please cite this repository."
+
+type: software
+
+authors:
+  - family-names: Bevacqua
+    given-names: Naomi
+    email: naomi.bevacqua@ugent.be
+    affiliation: Ghent University
+
+repository-code: "https://github.com/bevacquanaomi/MEP-extraction-eeglab-brainvision"
+url: "https://github.com/bevacquanaomi/MEP-extraction-eeglab-brainvision"
+
+abstract: >
+  MATLAB script for extraction of Motor Evoked Potentials (MEPs) from EMG/EEG data
+  recorded using a BrainVision system and processed in EEGLAB. The pipeline computes
+  MEP peak-to-peak amplitudes, pre-stimulus EMG activity, and latency proxies, and
+  includes manual trial quality control.
+
+keywords:
+  - EEG
+  - EMG
+  - MEP
+  - TMS
+  - EEGLAB
+  - BrainVision
+  - MATLAB
+  - neurophysiology
+
+license: MIT
+
+version: "1.0.0"
+date-released: 2026-02-11
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Bevacqua
+      given-names: Naomi
+  title: "BrainVision EMG MEP Extraction Pipeline (EEGLAB)"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/bevacquanaomi/MEP-extraction-eeglab-brainvision"
