@@ -25,7 +25,7 @@ In addition, a manual quality control step is included to visually inspect each 
 1. EEG data validation (EEGLAB format)
 2. Band-pass filtering (high-pass at 1 Hz)
 3. Resampling to 1000 Hz
-4. Epoching relative to stimulus onset
+4. Epoching relative to TMS trigger
 5. Feature extraction within defined time windows:
    - Post-stimulus window: 15–60 ms
    - Pre-stimulus window: 10–110 ms
